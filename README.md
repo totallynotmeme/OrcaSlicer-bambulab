@@ -1,3 +1,9 @@
+## this is not the original code
+if you're looking for the up-to-date code, please check the [original repository](https://github.com/FULU-Foundation/OrcaSlicer-bambulab).
+this fork was created just to add 1 to a number and will not be maintained
+
+-----
+
 <div align="center">
 
 <picture>
